@@ -27,9 +27,33 @@ $ git log --author=me --since=1.year --all | wc -l
 
 that's the vibe at **[@codeatlasdev](https://github.com/codeatlasdev)**, from Curitiba to anywhere. and at **[@vkdprojects](https://github.com/vkdprojects)** we do it 100% in the open.
 
+<details>
+<summary><b>🥚 faq nobody asked</b></summary>
+
+<br>
+
+**fav language?** whichever one the problem asks for. that's kinda the whole point
+
+**AI gonna take your job?** it's writing half my boilerplate already. the thinking part is still on me
+
+**tabs or spaces?** whatever the formatter says. i'm not fighting a linter in 2026
+
+**why is your public graph so quiet?** clients pay for private repos. the 2000+ commits are real, you just can't see them 👀
+
+**coffee or mate?** brazilian. both. at the same time
+
+</details>
+
 ### 🧰 what i use
 
 ![](https://skillicons.dev/icons?i=ts,rust,go,py,bash,react,nextjs,svelte,bun,postgres,sqlite,docker,linux,nginx,aws,cloudflare,githubactions)
+
+### 🐍 eating my commits
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mvilacad/mvilacad/output/snake-dark.svg">
+  <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/mvilacad/mvilacad/output/snake.svg">
+</picture>
 
 ### 📬 talk to me
 
