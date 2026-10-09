@@ -38,7 +38,7 @@ that's the vibe at **[@codeatlasdev](https://github.com/codeatlasdev)**, from Cu
 
 **tabs or spaces?** whatever the formatter says. i'm not fighting a linter in 2026
 
-**why is your public graph so quiet?** clients pay for private repos. the 2000+ commits are real, you just can't see them 👀
+**why is your public graph so quiet?** clients pay for private repos. the 2000+ contributions are real, you just can't see them 👀
 
 **coffee or mate?** brazilian. both. at the same time
 
