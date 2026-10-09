@@ -24,9 +24,6 @@ checks 1,437 TLDs across 19 registrars at once and compares prices. CLI, web and
 **[atlas](https://github.com/codeatlasdev/homebrew-tap)** · `brew install`<br>
 our internal dev platform CLI. basically your own heroku.
 
-**[q-commit](https://github.com/mvilacad/q-commit)** · vscode<br>
-you stage, the AI writes the commit message.
-
 ### 🧭 how we build at [codeatlas](https://codeatlas.com.br)
 
 > **quality is the only constraint.**<br>
@@ -36,7 +33,6 @@ you stage, the AI writes the commit message.
 - we never cut corners because of a deadline
 - "good enough" doesn't ship when "excellent" is reachable
 - the person using it is the north star. every architecture call, every line serves them
-- boring tech that lasts > shiny tech that breaks
 
 that's the vibe at **[@codeatlasdev](https://github.com/codeatlasdev)**. and at **[@vkdprojects](https://github.com/vkdprojects)** we do it 100% in the open.
 
