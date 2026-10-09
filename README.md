@@ -27,8 +27,6 @@ $ git log --author=me --since=1.year --all | wc -l
 
 that's the vibe at **[@codeatlasdev](https://github.com/codeatlasdev)**, from Curitiba to anywhere. and at **[@vkdprojects](https://github.com/vkdprojects)** we do it 100% in the open.
 
-that's the vibe at **[@codeatlasdev](https://github.com/codeatlasdev)**. and at **[@vkdprojects](https://github.com/vkdprojects)** we do it 100% in the open.
-
 ### 🧰 what i use
 
 ![](https://skillicons.dev/icons?i=ts,rust,go,py,bash,react,nextjs,svelte,bun,postgres,sqlite,docker,linux,nginx,aws,cloudflare,githubactions)
