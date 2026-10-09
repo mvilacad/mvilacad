@@ -1,4 +1,4 @@
-<a href="https://codeatlas.com.br"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=F7F7F7&vCenter=true&width=600&lines=hey%2C+i'm+matheus+%F0%9F%87%A7%F0%9F%87%B7;i+build+AI+gateways+in+rust;i+ship+SaaS+from+db+to+app+store;open+source+%40vkdprojects;building+%40codeatlasdev" alt="hey, i'm matheus"></a>
+<a href="https://codeatlas.com.br"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=F7F7F7&vCenter=true&width=600&lines=hey%2C+i'm+matheus+%F0%9F%87%A7%F0%9F%87%B7;quality+is+the+only+constraint;good+enough+is+not+a+thing;open+source+%40vkdprojects;building+%40codeatlasdev" alt="hey, i'm matheus"></a>
 
 ```console
 $ whoami
@@ -30,16 +30,18 @@ our internal dev platform CLI. basically your own heroku.
 **[q-commit](https://github.com/mvilacad/q-commit)** · vscode<br>
 you stage, the AI writes the commit message.
 
-### 🔒 private stuff i'm proud of
+### 🧭 how we build at [codeatlas](https://codeatlas.com.br)
 
-| | |
-|---|---|
-| **rotinha** | school transport SaaS. route optimization, live tracking, driver app, payments, digital contracts |
-| **AC** | the whole internal system of an industrial automation company, down to the TV video walls |
-| **gabinia** | AI for law firms |
-| **analisa ai** | AI recruiting and behavioral analysis |
-| **vixpi-pulse** | native server monitoring agent with a TUI, written in rust |
-| **@codeatlas/ui** | svelte 5 component lib, zero CSS opinions |
+> **quality is the only constraint.**<br>
+> time, complexity and scope don't get a vote.
+
+- we never say no because something is too hard
+- we never cut corners because of a deadline
+- "good enough" doesn't ship when "excellent" is reachable
+- the person using it is the north star. every architecture call, every line serves them
+- boring tech that lasts > shiny tech that breaks
+
+that's the vibe at **[@codeatlasdev](https://github.com/codeatlasdev)**. and at **[@vkdprojects](https://github.com/vkdprojects)** we do it 100% in the open.
 
 ### 🧰 what i use
 
