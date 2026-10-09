@@ -5,26 +5,15 @@ $ whoami
 matheus vilaça, dev from brazil
 
 $ cat now.txt
-> routing LLM traffic in rust @vkdprojects (100% open source, come hang)
-> building products and dev tools @codeatlasdev
+> building @codeatlasdev
+> shipping in the open @vkdprojects (100% open source, come hang)
 > open to remote work anywhere. pt-br / english
 
 $ git log --author=me --since=1.year --all | wc -l
-2000+   # most of it private. the public stuff is below
+2000+   # mostly private. the mindset is public tho
 ```
 
-### 🔥 open source
-
-**[vkdg](https://github.com/vkdprojects/vkdg)** · rust<br>
-AI gateway. plug in Claude Code, Codex or any OpenAI client, it picks the provider, translates the protocol and streams it back.
-
-**[domain-hunter](https://github.com/codeatlasdev/domain-hunter)** · go<br>
-checks 1,437 TLDs across 19 registrars at once and compares prices. CLI, web and MCP server.
-
-**[atlas](https://github.com/codeatlasdev/homebrew-tap)** · `brew install`<br>
-our internal dev platform CLI. basically your own heroku.
-
-### 🧭 how we build at [codeatlas](https://codeatlas.com.br)
+### 🧭 how i build
 
 > **quality is the only constraint.**<br>
 > time, complexity and scope don't get a vote.
