@@ -21,9 +21,6 @@ AI gateway. plug in Claude Code, Codex or any OpenAI client, it picks the provid
 **[domain-hunter](https://github.com/codeatlasdev/domain-hunter)** · go<br>
 checks 1,437 TLDs across 19 registrars at once and compares prices. CLI, web and MCP server.
 
-**[OmniRoute fork](https://github.com/codeatlasdev/OmniRoute)** · typescript<br>
-our fork of the OmniRoute AI gateway. sqlite fixes, headless mode, perf.
-
 **[atlas](https://github.com/codeatlasdev/homebrew-tap)** · `brew install`<br>
 our internal dev platform CLI. basically your own heroku.
 
