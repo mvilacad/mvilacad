@@ -49,4 +49,6 @@ I ship systems end to end: from Rust gateways and Go CLIs to TypeScript web/mobi
 
 ### Contact
 
-Open an issue on any repo, or reach me via [CodeAtlas](https://github.com/codeatlasdev).
+[![Email](https://img.shields.io/badge/matheus@codeatlas.com.br-111?style=flat-square&logo=gmail)](mailto:matheus@codeatlas.com.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/matheus-vila%C3%A7a-de-jesus-679417323/)
+[![Website](https://img.shields.io/badge/codeatlas.com.br-111?style=flat-square&logo=googlechrome)](https://codeatlas.com.br)
