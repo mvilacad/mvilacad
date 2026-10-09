@@ -1,4 +1,4 @@
-<a href="https://codeatlas.com.br"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=F7F7F7&vCenter=true&width=600&lines=hey%2C+i'm+matheus+%F0%9F%87%A7%F0%9F%87%B7;quality+is+the+only+constraint;good+enough+is+not+a+thing;open+source+%40vkdprojects;building+%40codeatlasdev" alt="hey, i'm matheus"></a>
+<a href="https://codeatlas.com.br"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=F7F7F7&vCenter=true&width=600&lines=hey%2C+i'm+matheus+%F0%9F%87%A7%F0%9F%87%B7;problem+first.+stack+later.;quality+is+the+only+constraint;good+enough+is+not+a+thing;building+%40codeatlasdev" alt="hey, i'm matheus"></a>
 
 ```console
 $ whoami
@@ -15,13 +15,17 @@ $ git log --author=me --since=1.year --all | wc -l
 
 ### 🧭 how i build
 
-> **quality is the only constraint.**<br>
-> time, complexity and scope don't get a vote.
+> **understand the problem before selling a solution.**<br>
+> sometimes the fix is a process. sometimes it's design, data, automation. sometimes it's code.
 
-- we never say no because something is too hard
-- we never cut corners because of a deadline
+- diagnosis first. no stack, framework or AI hype picked before the problem is clear
+- built from real problems, not templates
+- quality is the only constraint. time, complexity and scope don't get a vote
 - "good enough" doesn't ship when "excellent" is reachable
-- the person using it is the north star. every architecture call, every line serves them
+- the person using it is the north star
+- long term partner > one-off delivery
+
+that's the vibe at **[@codeatlasdev](https://github.com/codeatlasdev)**, from Curitiba to anywhere. and at **[@vkdprojects](https://github.com/vkdprojects)** we do it 100% in the open.
 
 that's the vibe at **[@codeatlasdev](https://github.com/codeatlasdev)**. and at **[@vkdprojects](https://github.com/vkdprojects)** we do it 100% in the open.
 
